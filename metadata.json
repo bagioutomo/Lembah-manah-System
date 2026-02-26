@@ -1,0 +1,7 @@
+{
+  "name": "Lembah Manah Management System",
+  "description": "A comprehensive management and financial dashboard for Lembah Manah Kopi featuring transaction tracking, wallet management, detailed reporting, and AI-powered efficiency recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
